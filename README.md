@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SHL is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://shl.com/
+SHL (formerly CEB) is a global leader in people science, providing talent assessment, development, and analytics solutions. Their platform helps organizations hire, develop, and retain talent through psychometric tests, simulations, and data-driven insights. SHL serves enterprises worldwide across industries, offering tools for talent acquisition, talent management, and workforce planning.
+
+**Areas:** Company · Talent Assessment · People Science · HR Technology · Workforce Analytics
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://shl.com/)
+- [Documentation](https://support.shl.com/)
+- [Blog](https://www.shl.com/resources/by-type/blog/)
+- [Terms of service](https://www.shl.com/en/terms-of-service/)
+- [Privacy policy](https://www.shl.com/legal/privacy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/shl/](https://apis.io/providers/shl/).
